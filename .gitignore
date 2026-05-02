@@ -3,3 +3,5 @@ node_modules
 
 # Java build artifacts
 hibernate-delivery/target/
+fsad-end-sem/
+hibernate-delivery/
